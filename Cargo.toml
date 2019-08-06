@@ -1,0 +1,7 @@
+[package]
+name = "hello-rust"
+version = "0.1.0"
+authors = ["Kenji Terai <kenji.terai@aerner.com>"]
+
+[dependencies]
+rand = "0.3.14"
